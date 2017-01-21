@@ -1,0 +1,126 @@
+*{margin:0; padding:0;}
+.container{ max-width:1170;
+             margin:0 auto;
+			 overflow:hidden;
+}
+#slider{ background:url(../images/About2.jpg) no-repeat;
+         background-position:center center;
+		 background-size:cover;
+}
+
+.overlay{ margin:0; padding:0; background-color:rgba(0, 0, 0, .1);}
+
+.slider-top h2{float:left; width:20%; color:white; margin-top:20px; font-family:Myriad Pro;}
+.menu{ float:right;margin-top:20px;}
+.menu ul{margin:0; padding:0;}
+.menu ul li{display:inline-block;}
+.menu ul li a{text-decoration:none; padding:20px 25px;
+              font-size:14px;  
+			  color:white;
+            text-transform:uppercase; font-family:Myriad Pro;
+}
+.menu ul li a:hover{color:#6fb048;}
+.menu input{ background-color: scrollbar;
+    border: 1px hidden;
+    color: -moz-eventreerow;
+    font-weight: bold;
+    height: 30px;
+    text-align: center;
+    width: 115px;}
+	
+.container	hr{ color: #9d9d9d;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 62px;}
+	
+.slider-content{padding:150px 0; color:white;   text-align: center;}
+.slider-content h2{ font-size: 43px;
+                    font-weight: inherit; font-family:Myriad Pro; margin-top:45px;}
+					
+.slider-content input{ background-color: #6fb048;
+    border: 1px hidden;
+    color: -moz-eventreerow;
+    height: 40px;
+    margin-top: 35px;
+    text-align: center;
+    width: 180px; font-family:Myriad Pro;
+    }
+#about-us{ padding:75px 0; }
+.about-top{text-align:center;font-family:Myriad Pro;}	
+.about-top h2{font-size:32px; font-weight:normal; color:#0F5F5C;}
+.about-top hr{width:80px;margin-right: auto;margin-left: auto;margin-top: 15px;}	
+.about-top p{width:725px; font-size:15px;margin:0 auto;  color:#83A7A5; margin-top:34px;}
+.about-content{ text-align:center;}
+.about{width:33.33%; float:left;font-family:Myriad Pro; padding:85px 0;}	
+.about i{ font-size:55px; margin-bottom:26px;}
+.about h2{color:#0F5F5C; font-weight:normal;font-size:16px;}
+.about p{color:#83A7A5;font-size:14px;text-align:center;margin:0 auto;  width:315px;}
+
+.about:hover i, 
+.about:hover h2{ color:#6fb048;} 
+	
+#meet-team{ background-color:#EEF1EC; padding:70px 0;}
+.meet-top{text-align:center; font-family:Myriad Pro;}
+.meet-top h2{font-size:32px;color:#0F5F5C; font-weight:normal;}
+.meet-top hr{width:80px;margin-right: auto;margin-left: auto;margin-top: 15px; margin-bottom:30px;}
+.meet-top p{color:#83A7A5;font-size:14px; max-width:600px;margin:0 auto;}
+.meet-content{padding:75px 0; }
+.meet { float:left; width:33.333%;text-align:center;font-family:Myriad Pro;}
+.meet h2 {text-align:left; margin-left:43px; font-size:15px; color:#0F5F5C; margin-top:15px;font-weight:normal;}
+.meet p{text-align:left; margin-left:43px;color:#83A7A5;font-size:14px;}
+
+#wapik{background:url(../images/color.jpg) no-repeat; }
+.wapik-content{ padding:80px 0; }	
+.wapik-content{ color:white; font-family:Myriad Pro;}	
+.wapik-content h2{ font-size:28px; font-weight:normal;}	
+.wapik-content p{ font-size:15px; }	
+.wapik-content input{float:right; margin-top:-50px; margin-right:25px;
+          height:40px; width:280px; background-color:#49732F; color:white; border:1px hidden;font-family:Myriad Pro;
+		  
+}
+#contact{padding:90px 0;}
+.oder-list{}
+.oder{  width:25%;float:left; font-family:Myriad Pro;text-align:center;}
+.oder h2{text-align:left;margin-left:108px;margin-bottom:25px;font-size:13px; color:#0F5F5C;font-weight:normal;}
+.oder h2 span{font-weight:bold; font-size:24px;}
+.oder li{list-style-type:none; text-align:left; margin-left:110px;
+  margin-top:15px; color:#83A7A5; font-size:13px;
+}
+ span{color:#0F5F5C;}	
+ .oder p{font-size:13px;color:#83A7A5;  margin-left: 106px;
+    text-align: initial;}
+.oder input{ background-color: #eef1ec;
+    border: 1px hidden gray;
+    border-radius: 2px;
+    font-size: 13px;
+    height: 35px;
+    margin-left: 105px;
+    margin-top: 25px;
+    width: 188px; padding:10px;}	
+
+hr{ color:white;
+    margin-left:195px;
+    margin-right:85px;
+	
+}		
+#social-icon{padding:25px 0; text-align:right; }
+.para{font-size;12px; color:#83A7A5; float:left; margin-left:110px;
+      margin-top:10px;
+}	
+.icon i {  
+    
+    border-radius: 50px;
+    color: white;
+    font-size: 25px;
+    height: 45px;
+    line-height: 45px;
+    text-align: center;
+    width: 45px;   
+	
+	}
+	
+.fa-twitter{background-color:#55ACEE;}
+.fa-facebook{background-color:#3B5998;}
+.fa-instagram{background-color:#3F729B;}
+.fa-dribbble{background-color:#ea4c89;}
+.fa-google-plus{background-color:#f20808;}

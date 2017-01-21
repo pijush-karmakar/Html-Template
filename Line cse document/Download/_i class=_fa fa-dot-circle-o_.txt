@@ -1,0 +1,18 @@
+<i class="fa fa-dot-circle-o" aria-hidden="true"></i>
+
+
+
+
+<i class="fa fa-flask" aria-hidden="true"></i>
+
+
+
+<i class="fa fa-phone" aria-hidden="true"></i>
+
+
+
+<i class="fa fa-files-o" aria-hidden="true"></i>
+
+
+
+<i class="fa fa-clone" aria-hidden="true"></i>
